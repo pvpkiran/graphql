@@ -10,3 +10,6 @@
 
 # Exclude all IDEA config files (multimodule case)
 /**/*.iml
+!/README.md
+src/main/resources/static/
+src/main/resources/templates/
