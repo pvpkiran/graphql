@@ -14,3 +14,13 @@
        title
      }
     }`
+
+
+Some of the drawbacks according to me,   
+
+1. You need to pass inidividual field names. If the messaege body is `{ allBooks { } }`, it will not fetch anything.  
+2. Declaring data types as Date and enum are not possible in graphsql file
+                                                                         
+                                                                               
+                                                                         
+                                                                         
